@@ -30,7 +30,7 @@ This is my about me. I have not completed this yet.
 
 Nada
 
-<img align="left" alt="CSharp" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-plain-wordmark.svg" />
+<img align="left" alt="Google" width="60px" style="padding-right:10px;" img="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-plain-wordmark.svg" />
 Google IT Support Professional Certificate
           
 <br />
