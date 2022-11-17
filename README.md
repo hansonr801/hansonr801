@@ -8,7 +8,7 @@ This is my about me. I have not completed this yet.
 
 ---
 
-### Languages and Tools 🧰
+### Languages and Tools
 
 
 <img align="left" alt="Windows" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
@@ -30,7 +30,7 @@ This is my about me. I have not completed this yet.
 ---
 
 
-### 📊 Certificates
+### Certificates
 
 Nada
 
@@ -43,7 +43,7 @@ Google IT Support Professional Certificate
 ---
 
 
-### 📺 Projects
+### Projects
 
 Nada
 
