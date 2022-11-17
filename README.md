@@ -2,7 +2,7 @@
 
 **`System Support Administrator`**
 
-This is my about me. I have not completed this yet.
+I am an experienced Systems Support Administrator with experience in Application and Web Development, Security SOD and Project Management with an exceptional Customer Service background.
 
 
 
@@ -32,9 +32,10 @@ This is my about me. I have not completed this yet.
 
 ### Certificates
 
-Nada
-
 Google IT Support Professional Certificate
+FEMA Incident Command System ICS-100
+CPht - Certified Pharmacy Technician
+
           
 <br />
 <br />
@@ -44,7 +45,9 @@ Google IT Support Professional Certificate
 
 ### Projects
 
-Nada
+Companion Desktop Application
+Windows Directory
+
 
 ---
 
