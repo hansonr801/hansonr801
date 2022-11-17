@@ -24,7 +24,8 @@ This is my about me. I have not completed this yet.
       
 <br />
 
-#
+---
+
 
 ### 📊 Certificates
 
@@ -36,13 +37,15 @@ Google IT Support Professional Certificate
 <br />
 <br />
 
-#
+---
+
 
 ### 📺 Projects
 
 Nada
 
-#
+---
+
 
 <details>
  <summary><h3> My Journey</h3></summary>
