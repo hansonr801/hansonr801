@@ -25,7 +25,6 @@ This is my about me. I have not completed this yet.
 
 <br/>
 <br/>
-<br/>
 
 ---
 
