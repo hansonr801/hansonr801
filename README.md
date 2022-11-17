@@ -9,6 +9,7 @@ This is my about me. I have not completed this yet.
 ---
 
 ### Languages and Tools 🧰
+
 <img align="left" alt="Windows" width="40px" style="padding 15px 0px 0px 15px; "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 <img align="left" alt="Linux" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="VS" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /> 
