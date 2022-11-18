@@ -37,9 +37,7 @@ Google IT Support Professional Certificate
 FEMA Incident Command System ICS-100
 <br />
 CPht - Certified Pharmacy Technician
-
-          
-<br />
+         
 <br />
 
 ---
