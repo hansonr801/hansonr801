@@ -42,8 +42,7 @@ Companion Desktop Application
 <br/>
 Windows Directory
 
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFSQl8lvr4&#x2F;view?utm_content=DAFSQl8lvr4&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">
-         
+
 ---
 <details>
  <summary><h3> My Journey</h3></summary>
