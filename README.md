@@ -33,7 +33,9 @@ I am an experienced Systems Support Administrator with experience in Application
 ### Certificates
 
 Google IT Support Professional Certificate
+<br />
 FEMA Incident Command System ICS-100
+<br />
 CPht - Certified Pharmacy Technician
 
           
