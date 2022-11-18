@@ -4,12 +4,9 @@
 
 I am an experienced Systems Support Administrator with experience in Application-Web Development, Security SOD and Processes, Project Management with an exceptional Customer Service background.
 
-
-
 ---
 
 ### Languages and Tools
-
 
 <img align="left" alt="Windows" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 <img align="left" alt="Linux" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -46,7 +43,6 @@ Companion Desktop Application
 Windows Directory
 
 ---
-
 <details>
  <summary><h3> My Journey</h3></summary>
    This is where there will be more information about me... eventually.
