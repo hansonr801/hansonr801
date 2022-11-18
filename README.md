@@ -2,7 +2,7 @@
 
 **`System Support Administrator`**
 
-I am an experienced Systems Support Administrator with experience in Application and Web Development, Security SOD and Project Management with an exceptional Customer Service background.
+I am an experienced Systems Support Administrator with experience in Application-Web Development, Security SOD and Processes, Project Management with an exceptional Customer Service background.
 
 
 
