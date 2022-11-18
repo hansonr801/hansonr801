@@ -29,7 +29,6 @@ I am an experienced Systems Support Administrator with experience in Application
 
 ---
 
-
 ### Certificates
 
 Google IT Support Professional Certificate
@@ -40,15 +39,12 @@ CPht - Certified Pharmacy Technician
          
 ---
 
-
 ### Projects
 
 Companion Desktop Application
 Windows Directory
 
-
 ---
-
 
 <details>
  <summary><h3> My Journey</h3></summary>
