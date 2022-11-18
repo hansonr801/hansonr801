@@ -1,10 +1,4 @@
-# Robert Hanson
-
-**`System Support Administrator`**
-
-I am an experienced Systems Support Administrator with experience in Application-Web Development, Security SOD and Processes, Project Management with an exceptional Customer Service background. Check out my webpage for more details!
-
----
+![Untitled (12 × 18 in) (1)](https://user-images.githubusercontent.com/33873172/202608014-8ff387e2-5fcf-42d9-b516-bfa9d0bead45.png)
 
 ### Languages and Tools
 
@@ -41,7 +35,6 @@ CPht - Certified Pharmacy Technician
 Companion Desktop Application
 <br/>
 Windows Directory
-
 
 ---
 <details>
