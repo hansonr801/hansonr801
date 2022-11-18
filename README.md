@@ -38,8 +38,6 @@ FEMA Incident Command System ICS-100
 <br />
 CPht - Certified Pharmacy Technician
          
-<br />
-
 ---
 
 
