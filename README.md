@@ -42,6 +42,7 @@ CPht - Certified Pharmacy Technician
 ### Projects
 
 Companion Desktop Application
+<br/>
 Windows Directory
 
 ---
