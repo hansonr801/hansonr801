@@ -3,7 +3,7 @@ System Support Administrator
 <br>
 <br>
 
-🔭 I’m currently working on completing my CompTia Sec+ accreditation. <br>
+🔭 I’m completing a HoneyPot Home Lab for defensive hardening practices. <br>
 🌱 I’m currently wrapping up a CeH project to add to my portfolio. <br>
 👯 I’m currently looking for a transition into the Cyber Security field! <br>
 
