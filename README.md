@@ -9,7 +9,7 @@ System Support Analyst
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Check out my Portfolio for the most info! </b>
+- <b>Check out my Portfolio for the most updated info! </b>
   - [Portfolio](https://hansonr801.github.io/Portfolio/)
 <br>
 - <b>Companion Destktop Application</b>
