@@ -3,7 +3,7 @@ System Support Analyst
 <br>
 <br>
 
-🔭 Currently looking for more Data projects to add to my portfolio. <br>
+🔭 Currently exploring Analytics, InfoSec and IT related fields. <br>
 🛠 Tools: SQL • MySQL • Power BI • Excel • Visual Studio  <br>
 📚 Learning: Time-series analysis, and advanced visualization techniques. <br>
 
