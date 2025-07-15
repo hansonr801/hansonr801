@@ -5,7 +5,7 @@ System Support Analyst
 
 🔭 Currently exploring Analytics, InfoSec and IT related fields. <br>
 🛠 Tools: SQL • MySQL • Power BI • Excel • Visual Studio  <br>
-📚 Learning: Time-series analysis, and advanced visualization techniques. <br>
+📚 Learning: Time-series analysis and advanced visualization techniques. <br>
 
 <h2>👨‍💻 Projects</h2>
 
