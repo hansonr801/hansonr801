@@ -7,7 +7,7 @@ System Support Analyst
 🛠 Tools: SQL • MySQL • Power BI • Excel • Visual Studio  <br>
 📚 Learning: Time-series analysis, and advanced visualization techniques. <br>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 Projects</h2>
 
 - <b>Check out my Portfolio for the most updated info! </b>
   - [Portfolio](https://hansonr801.github.io/Portfolio/)
